@@ -385,16 +385,16 @@ export default function Home() {
             <Logo />
             <p>Helping ambitious students turn consistent effort into career momentum.</p>
             <div className="socials">
-              <a href="instagram.com" aria-label="Instagram"><Camera /></a>
-              <a href="Linkedin.com" aria-label="LinkedIn"><Link /></a>
-              <a aria-label="Community updates"><Send /></a>
-              <a aria-label="GitHub"><GitBranch /></a>
+              <a href="https://instagram.com" aria-label="Instagram"><Camera /></a>
+              <a href="https://linkedin.com" aria-label="LinkedIn"><Link /></a>
+              <a href="#join" aria-label="Community updates"><Send /></a>
+              <a href="https://github.com" aria-label="GitHub"><GitBranch /></a>
             </div>
           </div>
           <div className="footer-links">
             <div><b>Explore</b><a href="#offer">What we offer</a><a href="#community">Community</a><a href="#weekly">Weekly plan</a><a href="#stories">Stories</a></div>
-            <div><b>Resources</b><a DSA roadmap</a><a >Internship tracker</a><a >Resume guide</a><a></a>Event calendar</a></div>
-            <div><b>Community</b><a href="#join">Join WhatsApp</a><a>Code of conduct</a><a >Partner with us</a><a href="#faq">FAQ</a></div>
+            <div><b>Resources</b><a href="#offer">DSA roadmap</a><a href="#offer">Internship tracker</a><a href="#offer">Resume guide</a><a href="#offer">Event calendar</a></div>
+            <div><b>Community</b><a href="#join">Join WhatsApp</a><a href="#join">Code of conduct</a><a href="#join">Partner with us</a><a href="#faq">FAQ</a></div>
           </div>
         </div>
         <div className="container footer-bottom">
