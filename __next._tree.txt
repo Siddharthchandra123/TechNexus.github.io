@@ -1,2 +1,2 @@
 :HL["/TechNexus.github.io/_next/static/chunks/3ikx2carz3c-h.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"KBdBXn91oAKo6o03tNdOx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"zBh5zq2piOrPCcf_bMy0G"}
