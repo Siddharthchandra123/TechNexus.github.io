@@ -3,7 +3,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://launchpad-community.vercel.app"),
+  metadataBase: new URL("https://siddharthchandra123.github.io"),
   title: {
     default: "Launchpad | Helping Students Become Industry Ready",
     template: "%s | Launchpad",
@@ -24,14 +24,14 @@ export const metadata: Metadata = {
       "The student community turning consistent effort into career momentum.",
     url: "/",
     siteName: "Launchpad",
-    images: [{ url: "/opengraph-image", width: 1200, height: 630 }],
+    images: [{ url: "/opengraph-image.svg", width: 1200, height: 630 }],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title: "Launchpad — Your career, accelerated.",
     description: "Internships, DSA, hackathons, and the people to do it with.",
-    images: ["/opengraph-image"],
+    images: ["/opengraph-image.svg"],
   },
 };
 

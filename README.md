@@ -18,6 +18,21 @@ npm run build
 npm start
 ```
 
+## Deploy to GitHub Pages
+
+1. Push this directory to GitHub.
+2. Enable Pages for the repository and point it to the `gh-pages` branch.
+3. The site will be built and deployed automatically on every push to `main`.
+
+From the command line:
+
+```bash
+npm install
+npm run deploy
+```
+
+For GitHub Actions, the repository includes `.github/workflows/deploy.yml` to build the site and publish the generated `out` folder to `gh-pages`.
+
 ## Deploy to Vercel
 
 1. Push this directory to a GitHub, GitLab, or Bitbucket repository.
